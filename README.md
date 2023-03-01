@@ -1,6 +1,6 @@
 # [Jurnal SMK Bagimu Negeriku](https://jurnal.smkbagimunegeriku.sch.id/)
 
-[<img src="https://smkbagimunegeriku.sch.id/wp-content/uploads/2021/12/cropped-Logo-BN-512x512-1.png" width="40%" style="display: block;margin-left: auto;margin-right: auto;" />](https://smkbagimunegeriku.sch.id/)
+[<img src="https://smkbagimunegeriku.sch.id/wp-content/uploads/2021/12/cropped-Logo-BN-512x512-1.png" width="40%" align="center" />](https://smkbagimunegeriku.sch.id/)
 
 ## Versions
 [<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/html-logo.jpg?raw=true" width="60" height="60" />](https://demos.creative-tim.com/argon-dashboard-pro/pages/dashboards/dashboard.html?ref=sudl-readme)
