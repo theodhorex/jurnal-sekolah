@@ -1,4 +1,4 @@
-# [<p style="text-align: center;">SMK Bagimu Negeriku</p>](https://jurnal.smkbagimunegeriku.sch.id/)
+# [Jurnal SMK Bagimu Negeriku](https://jurnal.smkbagimunegeriku.sch.id/)
 
 [<img src="https://smkbagimunegeriku.sch.id/wp-content/uploads/2021/12/cropped-Logo-BN-512x512-1.png" width="100%" />](https://smkbagimunegeriku.sch.id/)
 
