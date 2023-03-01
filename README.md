@@ -16,7 +16,7 @@ At present, we officially aim to support the last two versions of the following 
 
 ### Social Media
 
-### Bagi Negeriku
+### Bagimu Negeriku Semarang
 
 Instagram: <https://www.instagram.com/smkbagimunegeriku/>
 
